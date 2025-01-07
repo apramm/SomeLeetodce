@@ -19,10 +19,6 @@ class Solution:
                 nums_hash[nums[idx]] = idx
         return
     
-           
-           
-
-            
 
         #basic soln idea (NOT OPTIMAL)
         #Double for loop to sum and check if they are equal to target & return
