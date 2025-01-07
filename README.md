@@ -1,5 +1,7 @@
 # DailyNeetcode150
 
+Leetcode daily until I land FANG 💪
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
