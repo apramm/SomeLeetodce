@@ -3,9 +3,7 @@ class Solution:
         # BASIC Method using SORT
         # time : O(nlogn) space: O(1)
 
-        # if sorted(s) == sorted(t):
-        #     return True
-        # else: return False
+        return sorted(s) == sorted(t)
 
         #MY METHOD: COMPARE DICTIONARIES(HASHTABLES)
         # time : O(n) space : O(1)**
@@ -22,21 +20,21 @@ class Solution:
         # set will not work need to use dictionary i.e., some sort of counter
         #make the char key and iterations as value
 
-        # dict_s, dict_t = {}, {}
+        dict_s, dict_t = {}, {}
         
-        # for char in s:
-        #     if char in dict_s.keys():
-        #         dict_s[char] += 1
-        #     else:
-        #         dict_s[char] = 1
+        for char in s:
+            if char in dict_s.keys():
+                dict_s[char] += 1
+            else:
+                dict_s[char] = 1
         
-        # for char in t:
-        #     if char in dict_t.keys():
-        #         dict_t[char] += 1
-        #     else:
-        #         dict_t[char] = 1
+        for char in t:
+            if char in dict_t.keys():
+                dict_t[char] += 1
+            else:
+                dict_t[char] = 1
         
-        # return dict_s == dict_t
+        return dict_s == dict_t
 
 
         #OPTIMAL using HASHTABLE
