@@ -3,6 +3,7 @@ class Solution:
         #TODO: group the anagrams in the list together
         #my initial ideas:
         #find anagrams within the list of strs by iterating and store
+        
         # IMPORTANT HINT : 
         # in python list cannot be keys as immutable so store as tuples
         # also defaultdict to avoid append and long key error
@@ -12,7 +13,9 @@ class Solution:
         if length == 1:
             return [strs]
         
+        # SORT
         # i feel that strings can also be sorted as per ascii but that will be too poor time complexity around n^2logn
+        #time : O(n^2logn) space : O(1)
         
         sort_map = defaultdict(list)
 
