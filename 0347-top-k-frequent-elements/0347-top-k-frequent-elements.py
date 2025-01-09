@@ -5,22 +5,22 @@ class Solution:
         # we still need the num:freq hashmap
         # important is we store the list of num occuring with n freq in a n list
 
-        opt = defaultdict(int)
-        freq = [[] for i in range(len(nums)+1)]
+        # opt = defaultdict(int)
+        # freq = [[] for i in range(len(nums)+1)]
 
-        for num in nums: #O(n) 
-            opt[num] = 1 + opt.get(num,0) #concise way to do the same num:freq map
-        print(opt.items())
+        # for num in nums: #O(n) 
+        #     opt[num] = 1 + opt.get(num,0) #concise way to do the same num:freq map
+        # print(opt.items())
 
-        for n,c in opt.items(): #smart thing to make a list with num at freq index
-            freq[c].append(n)
+        # for n,c in opt.items(): #smart thing to make a list with num at freq index
+        #     freq[c].append(n)
         
-        res = []
-        for i in range(len(freq)-1,0,-1): #go in reverse order of max freq
-            for n in freq[i]: #each number in max freq
-                res.append(n)
-                if len(res) == k: #as we need k items
-                    return res
+        # res = []
+        # for i in range(len(freq)-1,0,-1): #go in reverse order of max freq
+        #     for n in freq[i]: #each number in max freq
+        #         res.append(n)
+        #         if len(res) == k: #as we need k items
+        #             return res
         #NOTE: it may seem as n^2 time but obv as there are only n items we have to go thru only n items and not n^2
 
         #base implementation idea : 
