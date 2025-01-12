@@ -10,6 +10,7 @@ class Solution:
             res[i] = prefix #we store prefix in result array
             prefix *= nums[i] #calculate prefix in each iteration 
         
+        #store in rev for postfix
         postfix = 1
         for i in range(len(nums)-1,-1,-1):
             res[i] *= postfix
