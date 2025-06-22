@@ -32,8 +32,11 @@ int findKthPositive(int* arr, int arrSize, int k) {
         }
     }
 
-    // once we've found the minimum index i.e., left before which the k elements are missing we can simply use the out of bound technique to return the kth positive in missing in the array
+  
+    // ANOTHER EDGE CASE ONE ELEMENT WHICH IS MISSNG BEFORE THE BEGINING THEN, WE STRAIGHT UP RETURN K as starting from 1 that should be kth missed positive num
     if (left == 0) return k;
+
+      // once we've found the minimum index i.e., left before which the k elements are missing we can simply use the out of bound technique to return the kth positive in missing in the array
     return arr[left - 1] + (k - computeMissingElementsTillIndex(arr, left - 1));
 
 }
