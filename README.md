@@ -14,6 +14,7 @@ This is for Big Tech
 | [0238-product-of-array-except-self](https://github.com/apramm/DailyNeetcode150/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/apramm/DailyNeetcode150/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/apramm/DailyNeetcode150/tree/master/0347-top-k-frequent-elements) |
+| [1646-kth-missing-positive-number](https://github.com/apramm/DailyNeetcode150/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ This is for Big Tech
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/apramm/DailyNeetcode150/tree/master/0268-missing-number) |
+| [1646-kth-missing-positive-number](https://github.com/apramm/DailyNeetcode150/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
