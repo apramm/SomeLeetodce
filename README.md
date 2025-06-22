@@ -1,6 +1,6 @@
-# DailyNeetcode150
+# Doing Algorithm Questions
 
-Leetcode daily until I land FANG 💪
+This is for Big Tech 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
