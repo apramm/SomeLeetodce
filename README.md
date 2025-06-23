@@ -83,4 +83,9 @@ This is for Big Tech
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/apramm/DailyNeetcode150/tree/master/0092-reverse-linked-list-ii) |
+| [0206-reverse-linked-list](https://github.com/apramm/DailyNeetcode150/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/apramm/DailyNeetcode150/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
