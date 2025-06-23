@@ -21,27 +21,24 @@ struct ListNode* mergeTwoLists(struct ListNode* list1, struct ListNode* list2) {
         return list1;
     }
 
-
-    // MERGING NON EMPTY
-    struct ListNode dummy; //create a new ListNode
-    struct ListNode* tail = &dummy;
+    struct ListNode dummy;
+    struct ListNode* head = &dummy;
     dummy.next = NULL;
-
-    while (list1 != NULL && list2 != NULL) {
-        // compare the list1 val with list2 val if less then
-        if (list1->val <= list2->val) {
-            tail->next = list1; // we can assign the next one to point to list1
-            list1 = list1->next; // move list1 ahead
-        } else {
-            tail->next = list2; //same if list2 is smaller value
+    // assign and move ahead while checking the values of list1 and list2
+    while(list1 != NULL && list2 != NULL ){
+        if(list2->val >= list1->val){
+            head->next = list1;
+            list1 = list1->next;
+        }else{
+            head->next = list2;
             list2 = list2->next;
         }
-        tail = tail->next;
+        head = head->next; //move ahead
     }
 
-    // Append the remaining list if one is longer
-    if (list1 != NULL) tail->next = list1;
-    if (list2 != NULL) tail->next = list2;
+    // if anyone of them is longer then just add it after the tail
+    if(list1!=NULL){head->next = list1;}
+    if(list2!=NULL){head->next = list2;}
 
     return dummy.next;
 }   
