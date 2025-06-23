@@ -33,9 +33,8 @@ struct ListNode* reverseBetween(struct ListNode* head, int left, int right) {
 
     // sublist reversal
     struct ListNode* preNode = NULL;
-    struct ListNode* nextNode = (struct ListNode*)malloc(sizeof(struct ListNode));
     for (int i = 0; i < right-left+1; i++){ // need to reverse right-left times
-        nextNode = curr->next;
+        struct ListNode* nextNode = curr->next;
         curr->next = preNode;
         preNode = curr;
         curr = nextNode;
