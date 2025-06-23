@@ -20,13 +20,13 @@ struct ListNode* reverseBetween(struct ListNode* head, int left, int right) {
     dummy->next = head;
 
     struct ListNode* prev = dummy;
-    struct ListNode* curr = head;
+    // struct ListNode* curr = head;
     for (int i = 0; i < left - 1; i++){
         prev = prev->next; //move prev to just one before left
-        curr = curr->next; // move curr to the left node i.e., the one that's supposed to be reversed
+        // curr = curr->next; // move curr to the left node i.e., the one that's supposed to be reversed
     }
 
-    // struct ListNode* curr = prev->next; //point to the left node i.e., the one that's to be reversed
+    struct ListNode* curr = prev->next; //point to the left node i.e., the one that's to be reversed
     
     // JUST MARKING THE SUBLIST HEADER
     struct ListNode* sublistHeader = curr;
