@@ -35,7 +35,7 @@ ListNode* reverseSubList(ListNode* head, int left, int right){
   dummy->next = head;
 
   ListNode* prev = dummy; 
-  for(int i = 0; i < left; i++){
+  for(int i = 0; i < left-1; i++){
     prev = prev->next;
   } // point prev to just one before the node we need to reverse
 
