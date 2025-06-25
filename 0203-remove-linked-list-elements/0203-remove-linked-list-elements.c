@@ -15,14 +15,17 @@ struct ListNode* removeElements(struct ListNode* head, int val) {
     struct ListNode* dummy = (struct ListNode*)malloc(sizeof(struct ListNode));
     dummy->val = 0;
     dummy->next = head;
-    struct ListNode* curr = dummy;
+    struct ListNode* pre = dummy;
+    struct ListNode* curr = head;
 
-    while(curr->next){
-        if(curr->next->val == val){
-            struct ListNode* tmp = curr->next;
-            curr->next = curr->next->next;
+    while(curr){
+        if(curr->val == val){
+            struct ListNode* tmp = curr;
+            pre->next = curr->next;
+            curr = curr->next;
             free(tmp);
         }else{
+        pre = curr;
         curr = curr->next;
         }
     } 
