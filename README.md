@@ -11,6 +11,7 @@ This is for Big Tech
 | [0049-group-anagrams](https://github.com/apramm/DailyNeetcode150/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/apramm/DailyNeetcode150/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/apramm/DailyNeetcode150/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/apramm/DailyNeetcode150/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/apramm/DailyNeetcode150/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/apramm/DailyNeetcode150/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/apramm/DailyNeetcode150/tree/master/0347-top-k-frequent-elements) |
@@ -22,6 +23,7 @@ This is for Big Tech
 | [0049-group-anagrams](https://github.com/apramm/DailyNeetcode150/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/apramm/DailyNeetcode150/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/apramm/DailyNeetcode150/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/apramm/DailyNeetcode150/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/apramm/DailyNeetcode150/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/apramm/DailyNeetcode150/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/apramm/DailyNeetcode150/tree/master/0347-top-k-frequent-elements) |
@@ -104,4 +106,8 @@ This is for Big Tech
 | ------- |
 | [0143-reorder-list](https://github.com/apramm/DailyNeetcode150/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/apramm/DailyNeetcode150/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/apramm/DailyNeetcode150/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
