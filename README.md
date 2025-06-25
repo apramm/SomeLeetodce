@@ -110,4 +110,20 @@ This is for Big Tech
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/apramm/DailyNeetcode150/tree/master/0219-contains-duplicate-ii) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/apramm/DailyNeetcode150/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/apramm/DailyNeetcode150/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/apramm/DailyNeetcode150/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/apramm/DailyNeetcode150/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
