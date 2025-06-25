@@ -1,7 +1,7 @@
 #define MAX_CHILDS 256
 
-typedef struct trie{
-    struct trie *child[MAX_CHILDS];
+typedef struct Trie{
+    struct Trie *child[MAX_CHILDS];
     bool terminal;     
 } Trie;
 
@@ -12,24 +12,24 @@ Trie* trieCreate() {
 
 void trieInsert(Trie* obj, char* word) {
     unsigned char *u_word = (unsigned char *)word;
-    int len = strlen(word);
+    int len = strlen(u_word);
     for (int i = 0; i < len; i++){
-        if(!obj->child[word[i]]){
-            obj->child[word[i]] = trieCreate();
+        if(!obj->child[u_word[i]]){
+            obj->child[u_word[i]] = trieCreate();
         }
-        obj = obj->child[word[i]];
+        obj = obj->child[u_word[i]];
     }
     obj->terminal = true;
 }
 
 bool trieSearch(Trie* obj, char* word) {
     unsigned char *u_word = (unsigned char *)word;
-    int len = strlen(word);
+    int len = strlen(u_word);
     for(int i = 0; i<len; i++){
-        if(!obj->child[word[i]]){
+        if(!obj->child[u_word[i]]){
             return false;
         }
-        obj = obj->child[word[i]];
+        obj = obj->child[u_word[i]];
     }
     return obj->terminal;
 }
