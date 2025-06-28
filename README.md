@@ -6,7 +6,7 @@ Week 1 @June 27 - July 4
 
 ### Week 1 Grind 75 To-Do List
 
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
