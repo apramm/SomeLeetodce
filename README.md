@@ -1,9 +1,28 @@
 # Doing Algorithm Questions
 
-This is for Big Tech 
+Grind 75 begin 
+
+Week 1 @June 27 - July 4
+
+### Week 1 Grind 75 To-Do List
+
+- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
+- [ ] [Flood Fill](https://leetcode.com/problems/flood-fill/)
+- [ ] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# All-time Topics
 ## Array
 |  |
 | ------- |
