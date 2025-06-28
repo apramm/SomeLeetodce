@@ -22,7 +22,7 @@ Week 1 @June 27 - July 4
 
 
 <!---LeetCode Topics Start-->
-# All-time Topics
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
