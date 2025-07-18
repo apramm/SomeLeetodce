@@ -1,4 +1,4 @@
-# Doing Algorithm Questions
+# Leetcode
 
 Grind 75 day 
 
@@ -14,7 +14,7 @@ Grind 75 day
 
 
 
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/apramm?theme=nord&font=Hanuman&ext=activity)
 
 
 
