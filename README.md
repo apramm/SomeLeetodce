@@ -39,6 +39,7 @@ Week 1 @June 27 - July 4
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/apramm/DailyNeetcode150/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/apramm/SomeLeetodce/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/apramm/DailyNeetcode150/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/apramm/DailyNeetcode150/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/apramm/DailyNeetcode150/tree/master/0208-implement-trie-prefix-tree) |
@@ -58,6 +59,7 @@ Week 1 @June 27 - July 4
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/apramm/SomeLeetodce/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/apramm/DailyNeetcode150/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/apramm/DailyNeetcode150/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/apramm/DailyNeetcode150/tree/master/0242-valid-anagram) |
@@ -132,6 +134,7 @@ Week 1 @June 27 - July 4
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/apramm/SomeLeetodce/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/apramm/DailyNeetcode150/tree/master/0219-contains-duplicate-ii) |
 ## Tree
 |  |
