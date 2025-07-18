@@ -24,7 +24,7 @@ Grind 75 day
 
 
 <!---LeetCode Topics Start-->
-# All Topics 
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
