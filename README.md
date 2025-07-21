@@ -5,10 +5,8 @@
 2. String/HashTable/SlidingWindow : [0003-longest-substring-without-repeating-characters](https://github.com/apramm/SomeLeetodce/tree/master/0003-longest-substring-without-repeating-characters)
 
 #### 0720d2s2
-1. SlidingWindow : 
-
-
-
+1. Review [0001-TwoSum](https://github.com/apramm/SomeLeetodce/blob/main/0001-two-sum/0001-two-sum.py) 
+2. TwoPointers/String : [0005-Longest-Palindrome](https://github.com/apramm/SomeLeetodce/tree/main/0005-longest-palindromic-substring)
 
 
 
@@ -16,27 +14,3 @@
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/apramm?theme=nord&font=Hanuman&ext=activity)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/apramm/SomeLeetodce/tree/master/0001-two-sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/apramm/SomeLeetodce/tree/master/0001-two-sum) |
-## Two Pointers
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/apramm/SomeLeetodce/tree/master/0005-longest-palindromic-substring) |
-## String
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/apramm/SomeLeetodce/tree/master/0005-longest-palindromic-substring) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/apramm/SomeLeetodce/tree/master/0005-longest-palindromic-substring) |
-<!---LeetCode Topics End-->
