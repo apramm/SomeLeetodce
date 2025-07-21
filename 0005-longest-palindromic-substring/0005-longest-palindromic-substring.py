@@ -28,8 +28,10 @@ class Solution:
 
             if max_len > end-start: 
                 #if this palindrome is longer than curr longest palindrome
-                start = i - (max_len - 1) // 2 #first half except center
-                end = i + max_len // 2 #second half except center
+                start = i - ((max_len - 1)// 2) 
+                # -1? for even the index(center) is the palindrome
+                # adding -1 doesn't affect odds calc as we've one c
+                end = i + (max_len// 2) 
                 # easy to viz how start and endpoint come 
 
         return s[start:end+1]
