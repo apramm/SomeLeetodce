@@ -40,7 +40,7 @@ class Solution:
             result += count_palindrome(s, i, i + 1)
             #even palindrome with r being a pair
 
-        # return result
+        return result
 
         #DP 
         n = len(s)
@@ -59,7 +59,7 @@ class Solution:
                 if dp[i][j]:
                     count+=1
 
-        return count
+        # return count
 
 
 
