@@ -11,6 +11,7 @@
 #### 0721d3s3
 1. Review [0647-PalindromicSubstring](https://github.com/apramm/SomeLeetodce/tree/master/0005-longest-palindromic-substring)
 2. Stack/Map : [0020-ValidParantheses](https://github.com/apramm/SomeLeetodce/tree/master/0020-valid-parentheses)
+3. Sliding Window: [1813-MaximumErasureValue](https://github.com/apramm/SomeLeetodce/tree/master/1813-maximum-erasure-value)
 
 
 
@@ -19,20 +20,3 @@
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/apramm?theme=nord&font=Hanuman&ext=activity)
-
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1813-maximum-erasure-value](https://github.com/apramm/SomeLeetodce/tree/master/1813-maximum-erasure-value) |
-## Hash Table
-|  |
-| ------- |
-| [1813-maximum-erasure-value](https://github.com/apramm/SomeLeetodce/tree/master/1813-maximum-erasure-value) |
-## Sliding Window
-|  |
-| ------- |
-| [1813-maximum-erasure-value](https://github.com/apramm/SomeLeetodce/tree/master/1813-maximum-erasure-value) |
-<!---LeetCode Topics End-->
