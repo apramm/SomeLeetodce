@@ -20,3 +20,19 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/apramm?theme=nord&font=Hanuman&ext=activity)
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/apramm/SomeLeetodce/tree/master/1813-maximum-erasure-value) |
+## Hash Table
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/apramm/SomeLeetodce/tree/master/1813-maximum-erasure-value) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/apramm/SomeLeetodce/tree/master/1813-maximum-erasure-value) |
+<!---LeetCode Topics End-->
