@@ -10,6 +10,8 @@
 
 #### 0721d3s3
 1. Review [0647-PalindromicSubstring](https://github.com/apramm/SomeLeetodce/tree/master/0005-longest-palindromic-substring)
+2. Stack/Map : [0020-ValidParantheses](https://github.com/apramm/SomeLeetodce/tree/master/0020-valid-parentheses)
+
 
 
 
@@ -18,14 +20,3 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/apramm?theme=nord&font=Hanuman&ext=activity)
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/apramm/SomeLeetodce/tree/master/0020-valid-parentheses) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/apramm/SomeLeetodce/tree/master/0020-valid-parentheses) |
-<!---LeetCode Topics End-->
