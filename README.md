@@ -17,3 +17,15 @@
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/apramm?theme=nord&font=Hanuman&ext=activity)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/apramm/SomeLeetodce/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/apramm/SomeLeetodce/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics End-->
