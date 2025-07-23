@@ -2,35 +2,23 @@
 
 #### 0719d1s1
 1. Amazon Robotics Question : [UniquePath II](https://leetcode.com/problems/unique-paths-ii/description/)
-2. String/HashTable/SlidingWindow : [0003-longest-substring-without-repeating-characters](https://github.com/apramm/SomeLeetodce/tree/master/0003-longest-substring-without-repeating-characters)
+2. String / HashTable/ SlidingWindow : [0003-longest-substring-without-repeating-characters](https://github.com/apramm/SomeLeetodce/tree/master/0003-longest-substring-without-repeating-characters)
 
 #### 0720d2s2
 1. Review [0001-TwoSum](https://github.com/apramm/SomeLeetodce/blob/main/0001-two-sum/0001-two-sum.py) 
-2. TwoPointers/String : [0005-Longest-Palindrome](https://github.com/apramm/SomeLeetodce/tree/main/0005-longest-palindromic-substring)
+2. SLIDING WINDOW : [0005-Longest-Palindrome](https://github.com/apramm/SomeLeetodce/tree/main/0005-longest-palindromic-substring)
 
 #### 0721d3s3
 1. Review [0647-PalindromicSubstring](https://github.com/apramm/SomeLeetodce/tree/master/0005-longest-palindromic-substring)
-2. Stack/Map : [0020-ValidParantheses](https://github.com/apramm/SomeLeetodce/tree/master/0020-valid-parentheses)
+2. Stack / Map : [0020-ValidParantheses](https://github.com/apramm/SomeLeetodce/tree/master/0020-valid-parentheses)
 3. Sliding Window: [1813-MaximumErasureValue](https://github.com/apramm/SomeLeetodce/tree/master/1813-maximum-erasure-value)
 
 
 #### 0722d4s4
 1. Map/Bit Manipulation? [0387-FirstUniqueCharacterInString](https://github.com/apramm/SomeLeetodce/tree/master/0387-first-unique-character-in-a-string)
-2. String/Map [0125-ValidPalindrome]()
+2. REGEX / SLIDING WINDOW [0125-ValidPalindrome](https://github.com/apramm/SomeLeetodce/tree/master/0125-valid-palindrome)
 
 
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/apramm?theme=nord&font=Hanuman&ext=activity)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0125-valid-palindrome](https://github.com/apramm/SomeLeetodce/tree/master/0125-valid-palindrome) |
-## String
-|  |
-| ------- |
-| [0125-valid-palindrome](https://github.com/apramm/SomeLeetodce/tree/master/0125-valid-palindrome) |
-<!---LeetCode Topics End-->
