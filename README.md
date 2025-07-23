@@ -14,29 +14,11 @@
 3. Sliding Window: [1813-MaximumErasureValue](https://github.com/apramm/SomeLeetodce/tree/master/1813-maximum-erasure-value)
 
 
-
+#### 0722d4s4
+1. Map/Bit Manipulation? [0387-FirstUniqueCharacterInString](https://github.com/apramm/SomeLeetodce/tree/master/0387-first-unique-character-in-a-string)
+2. String/Map [0125-ValidPalindrome]()
 
 
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/apramm?theme=nord&font=Hanuman&ext=activity)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/apramm/SomeLeetodce/tree/master/0387-first-unique-character-in-a-string) |
-## String
-|  |
-| ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/apramm/SomeLeetodce/tree/master/0387-first-unique-character-in-a-string) |
-## Queue
-|  |
-| ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/apramm/SomeLeetodce/tree/master/0387-first-unique-character-in-a-string) |
-## Counting
-|  |
-| ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/apramm/SomeLeetodce/tree/master/0387-first-unique-character-in-a-string) |
-<!---LeetCode Topics End-->
