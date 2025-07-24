@@ -41,4 +41,4 @@ class Solution:
 
         return False
 
-        
+        # i am goat solved in O(1) space don't know if it's valid but works!
