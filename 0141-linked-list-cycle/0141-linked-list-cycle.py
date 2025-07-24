@@ -13,30 +13,31 @@ class Solution:
 
         if head == None : return False
 
-        setNodes = set()
+        # setNodes = set()
 
-        while head:
-            if head in setNodes:
-                return True
-            else:
-                setNodes.add(head)
+        # while head:
+        #     if head in setNodes:
+        #         return True
+        #     else:
+        #         setNodes.add(head)
 
-            head = head.next
+        #     head = head.next
             
-        return False
+        # return False
 
         # follow up, can it be done in O(1) SPACE?
         # i.e., would need to use some pointer way to know all visited nodes 
 
-        # i can update head = head.next and change the visited node's head.next as it doesn't state that i need to keep linkedlist the same way :/
+        # i can update head.val = None? if it's visited so, i know if it's visited one or not as 
 
-        curr = head
+
         while head:
-                curr = head.next
-                head.next.val = -1
-                head = head.next
-                if head.val == -1:
-                    return True
+            if head.val == None:
+                return True
+            else:
+                head.val = None
+            head = head.next
+            
 
         return False
 
