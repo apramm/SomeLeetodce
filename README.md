@@ -18,23 +18,8 @@
 1. Map/Bit Manipulation? [0387-FirstUniqueCharacterInString](https://github.com/apramm/SomeLeetodce/tree/master/0387-first-unique-character-in-a-string)
 2. REGEX / SLIDING WINDOW [0125-ValidPalindrome](https://github.com/apramm/SomeLeetodce/tree/master/0125-valid-palindrome)
 
-
+#### 0723d5s5
+1. FASTSLOW POINTER / LINKED LIST [0141-LinkedListCycle](https://github.com/apramm/SomeLeetodce/tree/master/0141-linked-list-cycle)
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/apramm?theme=nord&font=Hanuman&ext=activity)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/apramm/SomeLeetodce/tree/master/0141-linked-list-cycle) |
-## Linked List
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/apramm/SomeLeetodce/tree/master/0141-linked-list-cycle) |
-## Two Pointers
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/apramm/SomeLeetodce/tree/master/0141-linked-list-cycle) |
-<!---LeetCode Topics End-->
