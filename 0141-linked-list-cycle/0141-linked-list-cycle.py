@@ -8,11 +8,12 @@ class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         # idea to have a set which keeps on updating as we iterate thru linkedlist
         # if the element alr in the set then we've cycle else we dont
+        # spinned around on value wayy to long bro just store the whole thing :/
+        
         if head == None : return False
-        print(head.next)
 
         setNodes = set()
-        
+
         while head:
             if head in setNodes:
                 return True
