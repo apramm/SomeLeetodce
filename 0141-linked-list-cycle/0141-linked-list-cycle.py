@@ -13,17 +13,17 @@ class Solution:
 
         if head == None : return False
 
-        # setNodes = set()
+        setNodes = set()
 
-        # while head:
-        #     if head in setNodes:
-        #         return True
-        #     else:
-        #         setNodes.add(head)
+        while head:
+            if head in setNodes:
+                return True
+            else:
+                setNodes.add(head)
 
-        #     head = head.next
+            head = head.next
             
-        # return False
+        return False
 
         # follow up, can it be done in O(1) SPACE?
         # i.e., would need to use some pointer way to know all visited nodes 
