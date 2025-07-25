@@ -25,20 +25,8 @@
 1. GREEDY / SET [3788-MaxUniqueSubarraySumAfterDeletion](https://github.com/apramm/SomeLeetodce/tree/master/3788-maximum-unique-subarray-sum-after-deletion)
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/apramm?theme=nord&font=Hanuman&ext=activity)
+#### 0725d7s7
+1. TWO POINTER / SORT [0015-3Sum](https://github.com/apramm/SomeLeetodce/tree/master/0015-3sum)
+2. 
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0015-3sum](https://github.com/apramm/SomeLeetodce/tree/master/0015-3sum) |
-## Two Pointers
-|  |
-| ------- |
-| [0015-3sum](https://github.com/apramm/SomeLeetodce/tree/master/0015-3sum) |
-## Sorting
-|  |
-| ------- |
-| [0015-3sum](https://github.com/apramm/SomeLeetodce/tree/master/0015-3sum) |
-<!---LeetCode Topics End-->
+![LeetCode Stats](https://leetcard.jacoblin.cool/apramm?theme=nord&font=Hanuman&ext=activity)
