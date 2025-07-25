@@ -22,13 +22,14 @@ class Solution:
                     j += 1
                 else:
                     result.append([nums[i], nums[j], nums[k]])
+                    #move ahead from both sides to check for new triplets
                     j += 1
                     k -= 1
-
+                    # check for duplication
                     while j < k and nums[j] == nums[j - 1]:
                         j += 1
                     while j < k and nums[k] == nums[k + 1]:
                         k -= 1
-                        
+
         return result
         
