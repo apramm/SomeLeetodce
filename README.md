@@ -21,21 +21,8 @@
 #### 0723d5s5
 1. FASTSLOW POINTER / LINKED LIST [0141-LinkedListCycle](https://github.com/apramm/SomeLeetodce/tree/master/0141-linked-list-cycle)
 
+#### 0724d6s6
+1. GREEDY / SET [3788-MaxUniqueSubarraySumAfterDeletion](https://github.com/apramm/SomeLeetodce/tree/master/3788-maximum-unique-subarray-sum-after-deletion)
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/apramm?theme=nord&font=Hanuman&ext=activity)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/apramm/SomeLeetodce/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
-## Hash Table
-|  |
-| ------- |
-| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/apramm/SomeLeetodce/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
-## Greedy
-|  |
-| ------- |
-| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/apramm/SomeLeetodce/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
-<!---LeetCode Topics End-->
