@@ -36,6 +36,7 @@
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/apramm/SomeLeetodce/tree/master/0322-coin-change) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/apramm/SomeLeetodce/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/apramm/SomeLeetodce/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/apramm/SomeLeetodce/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/apramm/SomeLeetodce/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
