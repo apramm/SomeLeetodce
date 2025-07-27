@@ -29,28 +29,7 @@
 1. TWO POINTER / SORT [0015-3Sum](https://github.com/apramm/SomeLeetodce/tree/master/0015-3sum)
 2. DYNAMIC PROGRAMMING [0322-CoinChange](https://github.com/apramm/SomeLeetodce/tree/master/0322-coin-change)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/apramm?theme=nord&font=Hanuman&ext=activity)
+#### 0726d8s8
+1. RECRUSION / STRINGIFICATION [0572-SubtreeOfAnotherTree](https://github.com/apramm/SomeLeetodce/tree/master/0572-subtree-of-another-tree)
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0572-subtree-of-another-tree](https://github.com/apramm/SomeLeetodce/tree/master/0572-subtree-of-another-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0572-subtree-of-another-tree](https://github.com/apramm/SomeLeetodce/tree/master/0572-subtree-of-another-tree) |
-## String Matching
-|  |
-| ------- |
-| [0572-subtree-of-another-tree](https://github.com/apramm/SomeLeetodce/tree/master/0572-subtree-of-another-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0572-subtree-of-another-tree](https://github.com/apramm/SomeLeetodce/tree/master/0572-subtree-of-another-tree) |
-## Hash Function
-|  |
-| ------- |
-| [0572-subtree-of-another-tree](https://github.com/apramm/SomeLeetodce/tree/master/0572-subtree-of-another-tree) |
-<!---LeetCode Topics End-->
+![LeetCode Stats](https://leetcard.jacoblin.cool/apramm?theme=nord&font=Hanuman&ext=activity)
