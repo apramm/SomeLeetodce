@@ -6,7 +6,8 @@
 #         self.right = right
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
-        # INTUITION
+        # INTUITION  - RECURSIVE TREE ITERATION
+        # TIME : O(NM) SPACE : O(H)
         #true? if there is subtree of root with same structure and node val of subRoot
         #subtree? tree consisting of a node in tree and all of node's desc
 
@@ -14,7 +15,7 @@ class Solution:
         # if their root val same and left/right subtrees are identical
         
         # recursively check if isIdentical trees?
-        
+
 
         # IF THE TREE HAS BEEN ITERATED  => TRUE
         # IF TREES EXISTS AND THIER VALUE EQUAL KEEP CHECKING UNTIL WE END OR THEY DON'T EQUAL OR ONE OF THEM ENDS
@@ -43,15 +44,15 @@ class Solution:
         #STRING SERIALIZATION?
         # provides way to check if their pattern identical and same node values exist for that!
         # O(n) time and O(n) space to store serialized strings
-        # def ser(n):
-        #     if not n:
-        #         return ',#'
-        #     return ','+str(n.val)+ser(n.left)+ser(n.right)
+        def ser(n):
+            if not n:
+                return ',#'
+            return ','+str(n.val)+ser(n.left)+ser(n.right)
 
-        # return ser(subRoot) in ser(root)
+        return ser(subRoot) in ser(root)
 
 
-        # return False
+        return False
 
 
         
