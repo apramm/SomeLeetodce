@@ -30,3 +30,27 @@
 2. DYNAMIC PROGRAMMING [0322-CoinChange](https://github.com/apramm/SomeLeetodce/tree/master/0322-coin-change)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/apramm?theme=nord&font=Hanuman&ext=activity)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/apramm/SomeLeetodce/tree/master/0572-subtree-of-another-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/apramm/SomeLeetodce/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/apramm/SomeLeetodce/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/apramm/SomeLeetodce/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/apramm/SomeLeetodce/tree/master/0572-subtree-of-another-tree) |
+<!---LeetCode Topics End-->
