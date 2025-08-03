@@ -29,7 +29,7 @@ class Solution:
 
         #kind of work but really bad time/space complexity as it's prop to total number of unique paths i.e., some combination of m+n-2
 
-        # dp solution optimal
+        # dp solution 2d slight optimal
         # TIME and SPACE = O(nm)
 
         path_table = [[1]*n for _ in range(m)] # top-left is init = 1
@@ -37,5 +37,21 @@ class Solution:
         for i in range(1,m):
             for j in range(1,n):
                 path_table[i][j] = path_table[i-1][j] + path_table[i][j-1] #fill table from bottom right?
-        
+
         return path_table[m-1][n-1]
+
+        #dp 1d optimal unintuitive
+        #time O(mn) space O(n)
+
+        path_table = [1]*n #initialize the number of paths in top row
+
+        for _ in range(1,m):
+            for j in range(1,n):
+                path_table[j] += path_table[j-1] 
+                #just keep adding the left path as we've already accounted for top path
+
+        return path_table[-1]
+
+
+
+
