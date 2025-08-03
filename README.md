@@ -33,3 +33,19 @@
 1. RECRUSION / STRINGIFICATION [0572-SubtreeOfAnotherTree](https://github.com/apramm/SomeLeetodce/tree/master/0572-subtree-of-another-tree)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/apramm?theme=nord&font=Hanuman&ext=activity)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/apramm/SomeLeetodce/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/apramm/SomeLeetodce/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/apramm/SomeLeetodce/tree/master/0062-unique-paths) |
+<!---LeetCode Topics End-->
