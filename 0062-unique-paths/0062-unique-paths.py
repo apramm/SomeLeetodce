@@ -30,6 +30,7 @@ class Solution:
         #kind of work but really bad time/space complexity as it's prop to total number of unique paths i.e., some combination of m+n-2
 
         # dp solution optimal
+        # TIME and SPACE = O(nm)
 
         path_table = [[1]*n for _ in range(m)] # top-left is init = 1
 
