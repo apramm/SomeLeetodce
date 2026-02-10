@@ -1,31 +1,15 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        # todo : return indices of two numbers in nums so,  == target 
-        # 0-based indexing
+        #bruteforce : double iteration to find the two numbers adding to target
+        #  O(n^2) not optimal
 
-        # assumption allowed : 
-        # each input has exactly one solution
-        # cannot use the same element twice
+        # Optimal : O(n) by creating a hashtable with number : target-num and for each
+        # number see if target-num in some keys we found both nums
+        hash = {} # num : i
+        for i,num in enumerate(nums):
+            complement = target-num
+            if (complement) in hash:
+                return [hash[complement], i]
+            hash[num] = i
 
-        #more questions?
-        # are numbers non-negative?
-        
-
-        # idea : use hashmap to store number itself as key and value as it's index
-        # put all numbers and their indices in map 
-        # subtract and done
-         
-        map = {} # {num:i, ...}
-        
-        # loop over nums
-        # if complement in map : return map[complement], i
-        # edge: what if same number then; we add stuff only if we dont find complement
-        # that way if the same number came we've it's index and initial number's index
-
-        for i, num in enumerate(nums):
-            complement = target - num
-            if complement in map:
-                return [map[complement], i]
-            map[num] = i
-        
         return []
