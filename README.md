@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/apramm/SomeLeetodce/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/apramm/SomeLeetodce/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/apramm/SomeLeetodce/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/apramm/SomeLeetodce/tree/master/0009-palindrome-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/apramm/SomeLeetodce/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
