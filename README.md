@@ -32,10 +32,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/apramm/SomeLeetodce/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/apramm/SomeLeetodce/tree/master/0133-clone-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/apramm/SomeLeetodce/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/apramm/SomeLeetodce/tree/master/0133-clone-graph) |
 ## Graph Theory
 |  |
@@ -61,4 +63,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/apramm/SomeLeetodce/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/apramm/SomeLeetodce/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/apramm/SomeLeetodce/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
