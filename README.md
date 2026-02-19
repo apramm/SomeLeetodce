@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/apramm/SomeLeetodce/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/apramm/SomeLeetodce/tree/master/0190-reverse-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/apramm/SomeLeetodce/tree/master/0112-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/apramm/SomeLeetodce/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
