@@ -14,6 +14,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/apramm/SomeLeetodce/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/apramm/SomeLeetodce/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/apramm/SomeLeetodce/tree/master/0125-valid-palindrome) |
 ## Array
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/apramm/SomeLeetodce/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/apramm/SomeLeetodce/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/apramm/SomeLeetodce/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/apramm/SomeLeetodce/tree/master/0217-contains-duplicate) |
 ## Depth-First Search
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/apramm/SomeLeetodce/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/apramm/SomeLeetodce/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/apramm/SomeLeetodce/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
